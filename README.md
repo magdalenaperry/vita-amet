@@ -30,6 +30,10 @@
 3. [Usage](#usage)
 2. [Visuals](#visuals)
 8. [Contributors](#contributors)
+9. [Roadmap](#roadmap)
+10. [Contact](#contact)
+11. [Acknowledgements](#acknowledgements)
+
 
 ---
 
